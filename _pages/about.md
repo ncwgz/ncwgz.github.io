@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Edinburgh.
+I am a second-year PhD student at the School of Informatics, University of Edinburgh. My current research work focuses on implementing solutions for dealing with incomplete information in relational database systems.
 
 # Research Interests
 
