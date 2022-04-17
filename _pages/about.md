@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at the University of Edinburgh. I am a member of Database Group, Laboratory for Foundations of Computer Science, School of Informatics. My current research work focuses on implementing solutions for dealing with incomplete information in relational database systems.
+I am a second-year PhD student at the University of Edinburgh. I am a member of the Database Group, Laboratory for Foundations of Computer Science, School of Informatics. My current research work focuses on implementing solutions for dealing with incomplete information in relational database systems.
 
 ## Research Interests
 
@@ -27,12 +27,6 @@ I am a second-year PhD student at the University of Edinburgh. I am a member of 
 
 ## Contact
 
-Bayes Centre - Office 3.20
+Bayes Centre - Office 3.20<br/>47 Potterrow<br/>Edinburgh EH8 9BT<br/>Scotland, UK
 
-47 Potterrow
-
-Edinburgh EH8 9BT
-
-Scotland, UK
-
-<i class="fas fa-fw fa-envelope" aria-hidden="true"></i>[name] DOT [surname] AT ed DOT ac DOT uk
+<i class="fas fa-fw fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;[name] DOT [surname] AT ed DOT ac DOT uk
