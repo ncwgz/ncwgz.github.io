@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Guozhi Wang"
   avatar           : "profile.png"
-  bio              : "PhD student at University of Edinburgh"
-  location         : "Edinburgh, Scotland, UK"
+  bio              : "PhD student in Computer Science"
+  location         : "School of Informatics, University of Edinburgh"
+  office           : "Bayes Center 3.20"
   employer         :
   pubmed           : 
   googlescholar    : 

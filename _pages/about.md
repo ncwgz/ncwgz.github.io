@@ -8,4 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-- aaaaaaa
+I am a PhD student at the University of Edinburgh.
+
+# Research Interests
+
+- Database systems
+- Incomplete information
+
+# Supervisors
+
+- [Dr. Paolo Guagliardo](https://homepages.inf.ed.ac.uk/pguaglia/)
+- [Prof. Leonid Libkin](https://homepages.inf.ed.ac.uk/libkin/)
+
+# Education
+
+- Master of Scicence degree in Computer Science from the [University of Florida](https://www.ufl.edu)
+- Bachelor of Engineering degree in Software Engineering from the [Jiangxi University of Finance and Economics](http://www.jxufe.edu.cn)
