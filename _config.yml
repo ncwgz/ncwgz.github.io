@@ -83,11 +83,11 @@ author:
   name             : "Guozhi Wang"
   avatar           : "profile.png"
   bio              : "PhD student in Computer Science"
-  location         : "Bayes Centre, Office 3.20\n47 Potterrow\nEdinburgh EH8 9BT\nScotland, UK"
+  location         : #"Bayes Centre, Office 3.20\n47 Potterrow\nEdinburgh EH8 9BT\nScotland, UK"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "guozhi.wang@ed.ac.uk"
+  email            : #"guozhi.wang@ed.ac.uk"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
